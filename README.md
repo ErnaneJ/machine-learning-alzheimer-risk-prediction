@@ -2,8 +2,6 @@
 
 ![🧠 Alzheimer Diagnosis with Machine Learning - Banner](./assets/banner.png)
 
-🔗 **[Access the Streamlit App](...)**
-
 ## 📌 Project Objective
 
 This project aims to **predict Alzheimer's diagnosis** based on clinical, behavioral, and cognitive data from patients. Using a supervised machine learning approach, we apply a **logistic regression model implemented in PyTorch** to classify patients as either having or not having the disease.
